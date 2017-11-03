@@ -1,0 +1,35 @@
+
+# Temporary files
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swap
+
+# Temporary folders
+pids
+logs
+results
+tmp
+
+# Build files
+lib
+docs/apidocs
+
+# API keys and secrets
+.env
+
+# Dependency caches
+node_modules
+bower_components
+
+# Editor config files
+.idea
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
